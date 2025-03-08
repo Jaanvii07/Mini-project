@@ -9,7 +9,7 @@ This is my **first GitHub project**, a simple static website built using **HTML 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tourism-website.git
+   git clone https://github.com/Jaanvii07/tourism-website.git
    ```
 2. Open `.html` in a browser.
 
